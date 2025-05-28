@@ -1,0 +1,7 @@
+filename,pred_random_forest,pred_svm,pred_knn,pred_logistic_regression
+new_001.JPG,Bee,Bee,Bee,Wasp
+new_002.JPG,Bee,Bee,Bee,Bumblebee
+new_003.JPG,Bumblebee,Bumblebee,Bumblebee,Bumblebee
+new_004.JPG,Bee,Bumblebee,Bumblebee,Bee
+new_005.JPG,Bee,Bee,Bee,Bee
+new_006.JPG,Bumblebee,Bumblebee,Bumblebee,Bumblebee
