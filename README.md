@@ -1,4 +1,4 @@
-# 🐞 Bug Type Classification System
+# Bug Type Classification System
 
 本项目是一个基于图像处理与机器学习的系统，用于自动识别和分类昆虫类型。我们使用带有掩码的图像提取颜色与形状特征，并应用多个监督与非监督学习模型进行训练与预测。
 
@@ -60,7 +60,7 @@ python train_model.py
 
 ---
 
-## 🔎 执行预测
+##  执行预测
 
 在项目根目录下运行以下命令（注意切换路径）：
 
